@@ -9,8 +9,8 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 import plotly.express as px
 
-GROQ_API_KEY = "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"
-GOOGLE_API_KEY = "AIzaSyDA5GvuW7EluhCIheHB8IkG3uJ3_hcx9MM"
+GROQ_API_KEY = 
+GOOGLE_API_KEY =
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def get_pdf_text(pdf_docs):

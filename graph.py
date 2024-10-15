@@ -11,7 +11,7 @@ from langchain.prompts import PromptTemplate
 import plotly.express as px
 
 # Configure Google Generative AI
-GOOGLE_API_KEY = "AIzaSyDA5GvuW7EluhCIheHB8IkG3uJ3_hcx9MM"
+GOOGLE_API_KEY = "
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def get_pdf_text(pdf_docs):

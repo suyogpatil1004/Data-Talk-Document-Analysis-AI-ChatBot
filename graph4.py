@@ -11,8 +11,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chat_models import ChatOpenAI
 
 # API Keys
-GROQ_API_KEY = "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"
-GOOGLE_API_KEY = "AIzaSyDA5GvuW7EluhCIheHB8IkG3uJ3_hcx9MM"
+GROQ_API_KEY =
 
 def get_pdf_text(pdf_docs):
     text = ""

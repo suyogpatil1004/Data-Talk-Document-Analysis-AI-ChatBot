@@ -23,9 +23,3 @@ Study Helping AI Chat is a google gemini base chat bot for help you in study. He
 5. **Enter commands in terminal**:  ```streamlit run app.py```
 
 
-
-## Contact Information
-
-For any questions, please contact me at:
-
-- Email: me.mahim99@gmail.com

@@ -1,2 +1,1 @@
-# suyog
-this is my first git repository
+Data Talk is an AI-powered chatbot designed for document analysis and visualization. It allows users to upload documents (PDFs, CSVs, Excel files) and ask questions in any language, providing insights, generating graphs, and answering queries based on the data.

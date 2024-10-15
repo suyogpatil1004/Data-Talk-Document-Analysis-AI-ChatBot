@@ -10,7 +10,7 @@ from langchain.prompts import PromptTemplate
 from langchain.embeddings import HuggingFaceEmbeddings  
 from langchain.chat_models import ChatOpenAI
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "
 
 def get_pdf_text(pdf_docs):
     text = ""

@@ -11,7 +11,6 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 
 # Set the API key
-GOOGLE_API_KEY = "AIzaSyDA5GvuW7EluhCIheHB8IkG3uJ3_hcx9MM"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def get_pdf_text(pdf_docs):
